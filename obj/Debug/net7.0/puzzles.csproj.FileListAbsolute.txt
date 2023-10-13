@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\bin\Debug\net7.0\puzzles.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\bin\Debug\net7.0\puzzles.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\bin\Debug\net7.0\puzzles.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\bin\Debug\net7.0\puzzles.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\bin\Debug\net7.0\puzzles.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\obj\Debug\net7.0\puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\obj\Debug\net7.0\puzzles.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\obj\Debug\net7.0\puzzles.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\obj\Debug\net7.0\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\obj\Debug\net7.0\puzzles.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\obj\Debug\net7.0\refint\puzzles.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\obj\Debug\net7.0\puzzles.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\obj\Debug\net7.0\puzzles.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\puzzles\obj\Debug\net7.0\ref\puzzles.dll
